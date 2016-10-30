@@ -7,6 +7,7 @@
 [AceJump](https://github.com/johnlindquist/AceJump) - Jump to any symbol with just a few keystrokes
 [IdeaVim](https://github.com/JetBrains/ideavim) - Provides Vim emulation
 [CodeGlance](https://github.com/Vektah/CodeGlance) - Displays a zoomed out code overview/minimap
+[Armory](http://www.visprogramming.com/armory/docs/) - Advanced navigation tool with multiple project trees support
 
 ## Appearance
 
