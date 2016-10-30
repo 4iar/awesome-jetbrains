@@ -2,3 +2,9 @@
 
 > A curated list of awesome things for JetBrains IDEs (PyCharm, WebStorm, IntelliJ, etc...)
 
+
+## Appearance
+
+### Themes
+
+[Material Theme](https://github.com/ChrisRM/material-theme-jetbrains)
