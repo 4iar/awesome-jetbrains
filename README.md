@@ -3,6 +3,12 @@
 > A curated list of awesome things for JetBrains IDEs (PyCharm, WebStorm, IntelliJ, etc...)
 
 
+
+## Navigation
+
+[AceJump](https://github.com/johnlindquist/AceJump) - Jump to any symbol with just a few keystrokes
+[IdeaVim](https://github.com/JetBrains/ideavim) - Provides Vim emulation
+
 ## Appearance
 
 ### Themes
