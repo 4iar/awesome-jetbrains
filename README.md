@@ -13,3 +13,9 @@
 ### Themes
 
 [Material Theme](https://github.com/ChrisRM/material-theme-jetbrains)
+
+## Language-specific
+
+### Java
+
+[DTOnator](https://github.com/nvinayshetty/DTOnator) - A plugin that creates Data Transfer Objects (DTO) from the given feed
