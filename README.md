@@ -20,3 +20,7 @@
 ### Java
 
 - [DTOnator](https://github.com/nvinayshetty/DTOnator) - A plugin that creates Data Transfer Objects (DTO) from the given feed
+
+
+### Markdown
+- [Markdown Navigator](https://plugins.jetbrains.com/plugin/7896?pr=idea) - Provides previewing, link address completions, refactoring, validation and language injections
