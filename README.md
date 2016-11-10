@@ -12,7 +12,7 @@
 ## Misc
 
 - [String Manipulation](https://plugins.jetbrains.com/plugin/2162) - Provides actions for text manipulation such as: style toggling (snake/hyphen etc), encoding (base64, md5), incrementing, sorting, aligning, and trimming.
-
+- [LiveEdit](https://plugins.jetbrains.com/plugin/7007) - Provides live edit HTML/CSS/JavaScript. Note: works as part of JavaScript debug session only.
 
 ## Appearance
 
