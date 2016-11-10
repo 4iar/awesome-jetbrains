@@ -9,6 +9,11 @@
 - [CodeGlance](https://github.com/Vektah/CodeGlance) - Displays a zoomed out code overview/minimap
 - [Armory](http://www.visprogramming.com/armory/docs/) - Advanced navigation tool with multiple project trees support
 
+## Misc
+
+- [String Manipulation](https://plugins.jetbrains.com/plugin/2162) - Provides actions for text manipulation such as: style toggling (snake/hyphen etc), encoding (base64, md5), incrementing, sorting, aligning, and trimming.
+
+
 ## Appearance
 
 ### Themes
