@@ -12,6 +12,7 @@
 ## Misc
 
 - [String Manipulation](https://plugins.jetbrains.com/plugin/2162) - Provides actions for text manipulation such as: style toggling (snake/hyphen etc), encoding (base64, md5), incrementing, sorting, aligning, and trimming.
+- [Grep Console](https://plugins.jetbrains.com/plugin/7125) - Allows you to define a series of regular expressions which will be tested against the console output or file.
 - [LiveEdit](https://plugins.jetbrains.com/plugin/7007) - Provides live edit HTML/CSS/JavaScript. Note: works as part of JavaScript debug session only.
 
 ## Appearance
